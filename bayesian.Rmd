@@ -304,5 +304,5 @@ f =
 
 
 ## Beyond the Model
-
+n
 The development of Stan and packages like <span class="pack">rstanarm</span> and <span class="pack">brms</span> is rapid, and with the combined powers of those involved, there are a lot of useful tools for exploring the model results.  Even if one found a specialty package for a specific type of mixed model, it is doubtful you would have as many tools for model exploration such as posterior predictive checks, marginal effects, model comparison, basic model diagnostics and more.  That said, the Stan ecosystem of R packages is notable at this point, and so use what works for your situation. For mixed models specifically, you should turn to these tools if <span class="pack" style = "">lme4</span> can't do it for you.
